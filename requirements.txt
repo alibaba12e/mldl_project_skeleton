@@ -1,2 +1,2 @@
-torch version: 2.6.0+cpu
-torchvision version: 0.21.0
+torch version==2.6.0+
+torchvision version==0.21.0
